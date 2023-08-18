@@ -8,7 +8,5 @@ public class Car2Exam02 {
         SportsCar s1 = new SportsCar("sportsCar!!");
         s1.run();
 
-        Car2 c = .......;
-        c.run(); // 어떤 결과가 나올까요?
     }
 }
