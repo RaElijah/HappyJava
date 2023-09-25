@@ -20,6 +20,6 @@ public class DecoratorPatternDemo {
         // Shpae ==> InputStream (추상클래스)
         // Rectangle ==> FileInputStream
         // RedShapeDecorator ==> DataInputStream
-        InputStream in = new DataInputStream(new FileInputStream("a.txt"));
+       // InputStream in = new DataInputStream(new FileInputStream("a.txt"));
     }
 }
